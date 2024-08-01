@@ -1,5 +1,3 @@
-Here's the content formatted in a proper `README.md` file format:
-
 ```markdown
 # Restaurant Management System Database
 
